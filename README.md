@@ -153,7 +153,7 @@ The pipeline consists of four stages:
 If you use this code or the findings, please cite:
 
 ```bibtex
-@article{dau2026capacity,
+@article{dao2026capacity,
   title   = {Capacity as the Bottleneck: English-Only Chain-of-Thought
              Distillation and Cross-Lingual Transfer in Medical Reasoning},
   author  = {Dao, Jiaxu and Li, Zhuoying},
